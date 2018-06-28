@@ -1,0 +1,31 @@
+.currencies-all .owl-nav .owl-next,.currencies-all .owl-nav .owl-prev,.copyright a {
+	color: #ffd11a;
+}
+
+.main-nav .nav-login,
+.main-nav .nav-login .search-form input,
+.banner .slider1 a.cbtn,
+.token .token-blog .overlay,
+.currencies-all .owl-nav .owl-next:hover,
+.currencies-all .owl-nav .owl-prev:hover,
+.steps .bar .fill,
+.steps .step-content .block .numbers span,
+.price-table .ico i,
+.price-table .cbtn,
+.how-help-tab .tabs-menu ul li a.active-tab-menu,
+.how-help-tab .tabs-menu ul li a:hover   {
+  background: #ffd11a;
+}
+
+.currencies-all .owl-nav .owl-next,.currencies-all .owl-nav .owl-prev,
+.h-style1:after,
+.h-style2:before,
+.h-style2:after {
+	border-color: #ffd11a;
+}
+
+ /*{
+	border-color: transparent transparent #df9d19 transparent;
+}
+*/
+/* home2 */
