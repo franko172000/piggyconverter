@@ -2773,24 +2773,24 @@ a.cbtn span:before {
 }
 .form-group.coins .nice-select ul.list li {
 	background-repeat: no-repeat !important;
-	padding-left: 50px !important; 
+	/*padding-left: 50px !important; */
 	background-position: 5px 5px !important;
     background-size: 30px 30px !important; 
 }
-.form-group.coins .nice-select ul.list li:nth-child(1) {
-	background-image: url('../images/icon1.png');
-}
+/*.form-group.coins .nice-select ul.list li:nth-child(1) {*/
+	/*background-image: url('../images/icon1.png');*/
+/*}*/
 
-.form-group.coins .nice-select ul.list li:nth-child(2) {
-	background: url('../images/icon2.png');
-}
+/*.form-group.coins .nice-select ul.list li:nth-child(2) {*/
+	/*background: url('../images/icon2.png');*/
+/*}*/
 
-.form-group.coins .nice-select ul.list li:nth-child(3) {
-	background: url('../images/icon3.png');
-}
-.form-group.coins .nice-select ul.list li:nth-child(4) {
-	background: url('../images/icon4.png');
-}
+/*.form-group.coins .nice-select ul.list li:nth-child(3) {*/
+	/*background: url('../images/icon3.png');*/
+/*}*/
+/*.form-group.coins .nice-select ul.list li:nth-child(4) {*/
+	/*background: url('../images/icon4.png');*/
+/*}*/
 .form-group.convert-to .nice-select {
 	background-repeat: no-repeat !important;
 	padding-left: 50px !important; 
@@ -7090,9 +7090,9 @@ a.cbtn span:before {
     height: 8px;
     right: 20px;
 }
-.crypto-alculator .form-group.coins .nice-select ul.list li:nth-child(1) {
-    background-image: url(../images/bcoin1.png);
-} 
+/*.crypto-alculator .form-group.coins .nice-select ul.list li:nth-child(1) {*/
+    /*background-image: url(../images/bcoin1.png);*/
+/*} */
 .crypto-alculator .form-group .nice-select span {
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
@@ -7101,7 +7101,7 @@ a.cbtn span:before {
     font-weight: lighter;
 }
 .crypto-alculator .form-group:nth-child(3) .form-control {
-    width: 46.5%;
+    /*width: 46.5%;*/
     float: left;
 }
 .crypto-alculator .form-group .form-control.flr {

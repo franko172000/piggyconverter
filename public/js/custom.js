@@ -38,8 +38,8 @@ Project:	bitcoin  - Responsive HTML Template
             this.blogs_slide();
             this.Offer_date();
             this.helptab();
-            this.Placeholdem();
-            this.selectstl();
+            // this.Placeholdem();
+            // this.selectstl();
             this.popup();
             this.img_popup();
             this.bgscroll2();
@@ -560,20 +560,20 @@ Project:	bitcoin  - Responsive HTML Template
         	
 		},
         //input placeholder 
-        Placeholdem: function() {
-        	if ($('input').length) {
-            	Placeholdem( document.querySelectorAll( '[placeholder]' ) );
-        	}
-        },
+        // Placeholdem: function() {
+        // 	if ($('input').length) {
+        //     	Placeholdem( document.querySelectorAll( '[placeholder]' ) );
+        // 	}
+        // },
         //Select Option
-        selectstl: function() {
-        	if ($('select').length) {
-				   $('select').niceSelect();   
-					var c_bgimg = $(".form-group.coins .nice-select ul.list li.option.selected").css('background-image');
-			      	// alert(c_bgimg);
-			      	$('.form-group.coins .nice-select').css('background-image', c_bgimg);   
-			}
-        },
+        // selectstl: function() {
+        // 	if ($('select').length) {
+			// 	   $('select').niceSelect();
+			// 		var c_bgimg = $(".form-group.coins .nice-select ul.list li.option.selected").css('background-image');
+			//       	// alert(c_bgimg);
+			//       	$('.form-group.coins .nice-select').css('background-image', c_bgimg);
+			// }
+        // },
         //Select Option
         
         
